@@ -1,3 +1,7 @@
+.hero-header.text-center {
+	line-height: 1;
+}
+
 .header-title {
 	font-family: "FucXed", sans-serif;
 	height: 100px;
@@ -23,4 +27,12 @@ br {
 h2 {
 	margin-top: 10px;
 	margin-bottom: 0;
+}
+
+p.bottom8 br{
+	margin: 0;
+}
+
+sup {
+	word-break: break-all;
 }
