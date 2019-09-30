@@ -8,3 +8,19 @@
 .policy a {
 	color: white;
 }
+
+p {
+	text-align: left;
+	line-height: 1.3;
+}
+
+br {
+   display: block;
+   margin: 20px 0;
+   content: " ";
+}
+
+h2 {
+	margin-top: 10px;
+	margin-bottom: 0;
+}
